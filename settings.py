@@ -72,9 +72,9 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'savour.wsgi.application'
 
-RAZOR_KEY_ID = 'rzp_test_PUHTPSBcJOz1in'
+RAZOR_KEY_ID = 'xxxxxxxxxxxxxxxxxxxx'
 
-RAZOR_KEY_SECRET = 'G2L7R6w8OZUEY1QkAjBsoJiH'
+RAZOR_KEY_SECRET = 'xxxxxxxxxxxxxxxxxx'
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
